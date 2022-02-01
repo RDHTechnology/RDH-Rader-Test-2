@@ -13,5 +13,8 @@ Column 4 **isNew**
 
 Column 5 **description**
   Enter a decspitopn for the project (fifth value)
+  
+Once all changes have been made go to the code Tech RadarWORKING.csv, click the **Raw** button and copy that url (raw data .csv file) and go this url:
+https://radar.thoughtworks.com/ and paste the raw data .csv file within the url field. The page will then redirect you to the technology radar
 
 Additional How to information: https://github.com/thoughtworks/build-your-own-radar
