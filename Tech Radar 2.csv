@@ -1,0 +1,26 @@
+﻿name,ring,quadrant,isNew,description
+Jira Service Desk,Trial,Services,TRUE,Service Mangement
+Jira Project Management,Trial,Tools,TRUE,Projects
+Nav2,Assess,Platforms,FALSE,Enrollment
+eCW University ,Deployed,Platforms,FALSE,Training
+eCW EMR,Assess,Services,FALSE,EMR
+Carecloud,Deployed,Platforms,FALSE,EMR
+NAV1,Assess,Platforms,FALSE,Enrollment
+Zendesk,Assess,Services,FALSE,Service Mangement
+Great Plains,Deployed,Tools,TRUE,Finance
+Ebix,Assess,Tools,TRUE,Claims
+Office 365,Deployed,Platforms,FALSE,Business Productivity
+Adobe Suite,Deployed,Services,FALSE,Graphic Desgin
+Panda Docs,Deployed,Services,TRUE,Documents
+RDH Cloud,Deployed,Platforms,FALSE,Database
+Connectwise,Deployed,Tools,FALSE,Remote connection client
+3CXPhone,Deployed,Communication,TRUE,Softphone
+Spruce,Deployed,Communication,FALSE,Text messaging Service
+DropBox,Assess,Platforms,FALSE,Shared File System
+Zoom,Deployed,Tools,FALSE,Video Sharing
+Remote Desktop Services,Deployed,Services,FALSE,Business Productivity
+Admin 123,Deployed,Platforms,FALSE,Enrollment
+Traction Tools,Deployed,Tools,FALSE,Performance
+Ampt,Deployed,Tools,FALSE,Performance
+Paycor,Deployed,Platforms,TRUE,HCM
+Slack,Assess,Communication,FALSE,Communication
